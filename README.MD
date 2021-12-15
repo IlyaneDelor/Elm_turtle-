@@ -1,4 +1,19 @@
-Primary Feature :
+#Start Project
+
+Clone the repo, enter the repo and write: 
+
+
+`elm init`
+
+After to launch the project :
+
+`elm reactor`
+
+And go to localhost:8000 in your browser 👍
+
+
+
+#Primary Feature :
 
 ✔️support the forward 10 command which makes the turtle advance by 10 units (up to you to define what a handy "unit" would be: px? 100px?). Note: of course, the 10 can vary, the user may enter any integer.
 
@@ -12,7 +27,7 @@ Primary Feature :
 
 
 
-Optional features
+##Optional features
 
 repeat commands multiple times: repeat 4 [ forward 10, turn_left 90 ] (this draws a square!).
 
